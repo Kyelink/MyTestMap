@@ -498,6 +498,23 @@
                  "width":97.3333333333334,
                  "x":338.666666666667,
                  "y":297.333333333333
+                }, 
+                {
+                 "height":200,
+                 "id":23,
+                 "name":"test website embedded",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/docs.workadventu.re\/map-building\/tiled-editor\/website-in-map"
+                        }],
+                 "rotation":0,
+                 "type":"website",
+                 "visible":true,
+                 "width":94.6666666666666,
+                 "x":468,
+                 "y":302.666666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -580,7 +597,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":23,
+ "nextobjectid":24,
  "orientation":"orthogonal",
  "properties":[
         {
