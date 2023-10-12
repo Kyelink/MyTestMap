@@ -595,8 +595,25 @@
          "visible":true,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":63,
+         "name":"configuration",
+         "objects":[],
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"answer",
+                 "type":"int",
+                 "value":42
+                }],
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":63,
+ "nextlayerid":64,
  "nextobjectid":24,
  "orientation":"orthogonal",
  "properties":[
